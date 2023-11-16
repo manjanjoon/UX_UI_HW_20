@@ -1,0 +1,60 @@
+
+
+  
+  .navbar-nav {
+    background-color: #00000000;
+    padding: 20px 20px 20px 60px;
+  }
+  
+
+  .navlink{
+    background-color: rgb(255, 255, 255);
+    padding: 50px 50px 50px 50px;
+  }
+  .container {    
+.margin: 30px 0px 30px 30px;
+background-color: #DAD6CA;
+padding: 30px 30px 30px 30px;
+  }
+.Responsive image{
+    background-color: rgb(255, 255, 255);
+}
+
+  body {
+    font-family: 'Lato', sans-serif;
+    
+}
+
+  body{
+    background-color: #DAD6CA;
+  }
+  .lead{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px 20px 20px 20px;
+    margin: 0 auto;
+    font-size: 40px;
+    
+   
+
+  }
+  .jumbotron{
+    background-color: #DAD6CA;}
+
+    .card-body{
+        background-color:#848484;
+        color: white; 
+        padding-left: 100px;
+
+        
+    }
+.btn{
+    background-color: white;
+    color: black;
+    font-family:'lato';
+    font-size: medium;
+    margin: 40px 40px 40px 40px;
+    padding: 10px 20px 10px 20px;
+    outline:none!important
+
+}
